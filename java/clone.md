@@ -1,0 +1,1 @@
+SomeObject cloned = SerializationUtils.clone(someObject);

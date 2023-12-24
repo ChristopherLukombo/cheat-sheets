@@ -1,0 +1,5 @@
+```css
+
+Object-fit : cover
+
+```

@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "9cf9a25d683e6e09",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfadeb93554811d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6953e48ed84e95a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/Assert.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80513bc2d7d3792b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b891909fbd007b4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a48d09b946b89f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33bf2fb1e72bf1f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Cut",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e6fea3ae2e45b76",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "59c60468d80161a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "right": {
+    "id": "c3ad7dfe8f7fd2e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6099716938a457d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04bd7237c5f29a17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "java/Assert.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6bf1b7dee16ce6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "java/Assert.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2718d8dcb95df3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c90438412f59c90f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "java/Assert.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Créer une nouvelle toile": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "6953e48ed84e95a2",
+  "lastOpenFiles": [
+    "README.md",
+    "java/conditional.md",
+    "java/comparator.md",
+    "java/ByteArray.md",
+    "docker/docker.md",
+    "tools/git.md",
+    "tools/maven.md",
+    "linux/vim.md",
+    "linux/common commands.md",
+    "tools/wsl.md",
+    "windows/Commands.md",
+    "kubernetes/kubectl.md",
+    "kubernetes/kubernetes.md",
+    "kubernetes/helm.md",
+    "tools/vscode.md",
+    "tools/npm.md",
+    "linux/find.md",
+    "Sans titre.md",
+    "kafka/Sans titre.md",
+    "kafka",
+    "java/debugger.md",
+    "linux/ssh.md",
+    "linux/linux-keyboard-shortcuts.md",
+    "java/open-session-in-view.md",
+    "java/event.md",
+    "java/properties.md",
+    "angular/life-cycle.md",
+    "Sans titre.canvas",
+    "Sans titre 1.canvas",
+    "tools/wsl",
+    "tools",
+    "docker",
+    "kubernetes"
+  ]
+}

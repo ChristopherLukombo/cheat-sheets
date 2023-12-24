@@ -1,0 +1,4 @@
+# lombok
+
+
+@RequiredArgsConstructor(staticName = "of")
