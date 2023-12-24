@@ -6,8 +6,8 @@ Apache Maven is a software project management and comprehension tool. Based on t
 
 | Maven Command | Comment |
 | --- | --- |
-| `mvn dependency:analyze` | Analyse les dépendances |
-| `mvn dependency:tree`   | Effectu un arbdre des dépendances |
-| `mvn -emp mypassword` | Emscripte le password |
-| `mvn clean package -T 1C` | Effecture un package avec 1 thread par CPU |
+| `mvn dependency:analyze` | Analyze dependencies |
+| `mvn dependency:tree`   | Performs a dependency tree |
+| `mvn -emp mypassword` | Encrypt the password |
+| `mvn clean package -T 1C` | Performs a package with 1 thread per CPU |
 

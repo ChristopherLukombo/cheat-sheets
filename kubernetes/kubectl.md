@@ -192,5 +192,5 @@ kubectl top pod
   
 kubectl get namespaces  
 kubectl get replicasets  
-kubectl kustomize .  
+kubectl kustomize ./
 kubectl describe configmaps/game-config-4-m9dm2f92bt

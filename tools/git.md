@@ -84,9 +84,9 @@ The following commands can be helpful for working with `git`.
 | `git pull` | Pull current state from the remote repository to your local repo |
 | `git diff --stat main..` | Display diff with branch main |
 | `git diff --stat branch1..branch2` | Display diff with branch 1 and branch 2 |
-| `git rm --cached <file>` | rmv   |
-| `git rebase` | rebase |
-| `git rebase --onto <newparent> <oldparent>` | rebase |
+| `git rm --cached <file>` | remove files matching pathspec from the index.   |
+| `git rebase` | reapply commits on top of another base tip |
+| `git rebase --onto <newparent> <oldparent>` | switching a parent on a commit. |
 
 
 ### Working with git-flow
