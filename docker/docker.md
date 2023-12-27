@@ -28,6 +28,18 @@ sudo groupadd docker
 sudo usermod -aG docker $USER
 ```
 
+To launch the service
+
+```sh
+sudo service docker start
+```
+
+To see if the package is set up
+
+```sh
+dpkg -l  | grep -i docker
+```
+
 For more information, see [Install Docker Engine](https://docs.docker.com/engine/install/)
 
 ## Using Docker

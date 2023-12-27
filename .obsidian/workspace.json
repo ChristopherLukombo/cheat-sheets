@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/kubectl.md",
+                "file": "linux/column.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes/kubectl.md",
+                "file": "linux/column.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernetes/kubectl.md",
+                "file": "linux/column.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernetes/kubectl.md"
+                "file": "linux/column.md"
               }
             }
           }
@@ -156,11 +156,18 @@
   },
   "active": "6953e48ed84e95a2",
   "lastOpenFiles": [
+    "linux/sed.md",
+    "linux/common commands.md",
+    "linux/linux-keyboard-shortcuts.md",
+    "tools/npm.md",
+    "linux/find.md",
+    "docker/docker.md",
+    "linux/column.md",
+    "kubernetes/kubectl.md",
     "linux/cron.md",
     "tools/terraform.md",
     "linux/raccourcis.md",
     "tools/nmap.md",
-    "tools/npm.md",
     "tools/git.md",
     "tools/theme terminal.md",
     "README.md",
@@ -173,15 +180,8 @@
     "java/conditional.md",
     "java/comparator.md",
     "java/ByteArray.md",
-    "docker/docker.md",
     "linux/vim.md",
-    "linux/common commands.md",
     "tools/wsl.md",
-    "windows/Commands.md",
-    "kubernetes/kubectl.md",
-    "kubernetes/kubernetes.md",
-    "kubernetes/helm.md",
-    "tools/vscode.md",
     "kafka",
     "Sans titre.canvas",
     "Sans titre 1.canvas",

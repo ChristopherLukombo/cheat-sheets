@@ -13,6 +13,7 @@ chmod 700 /mnt/dbtemp
 chown postgres:postgres /mnt/dbtemp
 ln -s /mnt/c/Users/christopher win_home
 eval `keychain --agents ssh --eval ~/.ssh/id_rsa.pub`
+ls -al /etc/apt/sources.list.d/
 
 curl -X POST -H "Content-Type: application/json" \
 
