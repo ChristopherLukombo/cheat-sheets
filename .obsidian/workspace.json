@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1daa25132d4918cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/column.md",
+                "file": "java/log.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/column.md",
+                "file": "java/log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/column.md"
+                "file": "java/log.md"
               }
             }
           }
@@ -154,11 +167,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6953e48ed84e95a2",
+  "active": "1daa25132d4918cc",
   "lastOpenFiles": [
-    "linux/sed.md",
+    "hibernate/Annotations.md",
+    "java/log.md",
     "linux/common commands.md",
     "linux/linux-keyboard-shortcuts.md",
+    "linux/sed.md",
     "tools/npm.md",
     "linux/find.md",
     "docker/docker.md",
@@ -180,8 +195,6 @@
     "java/conditional.md",
     "java/comparator.md",
     "java/ByteArray.md",
-    "linux/vim.md",
-    "tools/wsl.md",
     "kafka",
     "Sans titre.canvas",
     "Sans titre 1.canvas",

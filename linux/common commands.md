@@ -26,3 +26,7 @@ nvm alias default 20.10.0
 nvm use
 
 ipconfig.exe | grep IPv4 | cut -d: -f2
+
+```
+for pid in $(ps -ef | grep "some search" | awk '{print $2}'); do kill -9 $pid; done
+```
