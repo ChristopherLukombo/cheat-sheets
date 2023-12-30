@@ -1,3 +1,5 @@
 # column
 
-Column -s " " -t
+
+column -s ":"  -t /etc/passwd
+
