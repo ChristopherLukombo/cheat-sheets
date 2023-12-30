@@ -328,3 +328,6 @@ USE OF '\t' IN awk SCRIPTS: For clarity in documentation, I have used
 awk should recognize this abbreviation.
 
 awk -F ',' '{print $2}' filename.txt  
+
+
+awk '{print substr($1,0,6)}' : for substring
