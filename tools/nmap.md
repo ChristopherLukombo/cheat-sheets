@@ -1,0 +1,1 @@
+nmap -sV --script vuln 8.8.8

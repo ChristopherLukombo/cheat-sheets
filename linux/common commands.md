@@ -15,6 +15,7 @@ ln -s /mnt/c/Users/christopher win_home
 eval `keychain --agents ssh --eval ~/.ssh/id_rsa.pub`
 ls -al /etc/apt/sources.list.d/
 find . ! -name '*test*.*'-name '*.xml'-execgrep -i 'ProductReplacement'{} \; -print
+ls|while read -r; do echo $REPLY; done
 
 curl -X POST -H "Content-Type: application/json" \
 
