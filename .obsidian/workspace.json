@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/common commands.md",
+                "file": "tools/git.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/common commands.md",
+                "file": "tools/git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/common commands.md",
+                "file": "tools/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/common commands.md"
+                "file": "tools/git.md"
               }
             }
           }
@@ -169,6 +169,8 @@
   },
   "active": "1daa25132d4918cc",
   "lastOpenFiles": [
+    "README.md",
+    "linux/common commands.md",
     "linux/column.md",
     "linux/xargs.md",
     "linux/vim.md",
@@ -178,7 +180,6 @@
     "tools/npm.md",
     "linux/find.md",
     "linux/nmap.md",
-    "linux/common commands.md",
     "linux/awk.md",
     "java/Assert.md",
     "java/clone.md",
@@ -193,7 +194,6 @@
     "linux/raccourcis.md",
     "tools/git.md",
     "tools/theme terminal.md",
-    "README.md",
     "linux/tr.md",
     "kafka",
     "Sans titre.canvas",

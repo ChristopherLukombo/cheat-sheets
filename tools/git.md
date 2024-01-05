@@ -62,7 +62,7 @@ The following commands can be helpful for working with `git`.
 ### Basic commands
 
 | Git Command | Comment |
-| --- | --- |
+| ---- | ---- |
 | `git init` | Initialize a directory as git managed repository |
 | `git clone <url>` | Clone a remote repository to your local client |
 | `git status` | Shows uncommited changes, new files etc. |
@@ -84,9 +84,10 @@ The following commands can be helpful for working with `git`.
 | `git pull` | Pull current state from the remote repository to your local repo |
 | `git diff --stat main..` | Display diff with branch main |
 | `git diff --stat branch1..branch2` | Display diff with branch 1 and branch 2 |
-| `git rm --cached <file>` | remove files matching pathspec from the index.   |
+| `git rm --cached <file>` | remove files matching pathspec from the index. |
 | `git rebase` | reapply commits on top of another base tip |
 | `git rebase --onto <newparent> <oldparent>` | switching a parent on a commit. |
+| `git checkout -b "local_mapache_branch" origin/"remote_mapache_branch"` |  Create branch from remote |
 
 
 ### Working with git-flow
