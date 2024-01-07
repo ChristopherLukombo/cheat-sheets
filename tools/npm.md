@@ -18,3 +18,6 @@ write `npm ****i -D**** <package>`.
 
 Instead of `npm ****install**** ****--global**** <package>`  
 write `npm ****i -G**** <package>`.
+
+npm i -g depcheck
+npx depcheck
