@@ -32,6 +32,8 @@ ipconfig.exe | grep IPv4 | cut -d: -f2
 sudo tcpdump port 3389
 lsof -i :8080
 
+sudo dpkg -i $FILE_PATH
+sudo apt-get install -f
 
 ```
 for pid in $(ps -ef | grep "some search" | awk '{print $2}'); do kill -9 $pid; done
