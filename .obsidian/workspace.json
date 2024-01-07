@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1daa25132d4918cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Cut",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/git.md",
+                "file": "linux/column.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/git.md",
+                "file": "linux/column.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/git.md"
+                "file": "linux/column.md"
               }
             }
           }
@@ -167,16 +154,24 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "1daa25132d4918cc",
+  "active": "6953e48ed84e95a2",
   "lastOpenFiles": [
+    "Sans titre.canvas",
+    "Sans titre 2.canvas",
+    "Sans titre 1.canvas",
+    "2024-01-07.md",
+    "linux/column.md",
+    "docker/docker.md",
+    "tools/maven.md",
+    "tools/theme terminal.md",
+    "tools/wsl.md",
+    "tools/git.md",
     "README.md",
     "linux/common commands.md",
-    "linux/column.md",
     "linux/xargs.md",
     "linux/vim.md",
     "linux/linux-keyboard-shortcuts.md",
     "tools/nmap.md",
-    "tools/maven.md",
     "tools/npm.md",
     "linux/find.md",
     "linux/nmap.md",
@@ -187,17 +182,9 @@
     "java/log.md",
     "hibernate/Annotations.md",
     "linux/sed.md",
-    "docker/docker.md",
     "kubernetes/kubectl.md",
     "linux/cron.md",
-    "tools/terraform.md",
-    "linux/raccourcis.md",
-    "tools/git.md",
-    "tools/theme terminal.md",
-    "linux/tr.md",
     "kafka",
-    "Sans titre.canvas",
-    "Sans titre 1.canvas",
     "tools/wsl",
     "tools",
     "docker",
