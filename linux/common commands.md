@@ -38,3 +38,5 @@ sudo apt-get install -f
 ```
 for pid in $(ps -ef | grep "some search" | awk '{print $2}'); do kill -9 $pid; done
 ```
+
+https://linuxhint.com/how-to-add-a-package-repository-to-debian/
