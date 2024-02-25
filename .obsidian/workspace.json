@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/find.md",
+                "file": "linux/Diff.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/find.md",
+                "file": "linux/Diff.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/find.md",
+                "file": "linux/Diff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/find.md"
+                "file": "linux/Diff.md"
               }
             }
           }
@@ -156,10 +156,16 @@
   },
   "active": "6953e48ed84e95a2",
   "lastOpenFiles": [
-    "linux/column.md",
+    "linux/nmap.md",
+    "linux/Diff.md",
+    "linux/common commands.md",
+    "linux/linux-keyboard-shortcuts.md",
+    "linux/find.md",
+    "linux/cut.md",
+    "linux/cron.md",
     "linux/cat.md",
     "linux/awk.md",
-    "linux/common commands.md",
+    "linux/column.md",
     "linux/vim.md",
     "linux/xclip.md",
     "linux/xargs.md",
@@ -170,18 +176,12 @@
     "linux/sed.md",
     "linux/raccourcis.md",
     "linux/nslookup.md",
-    "linux/nmap.md",
-    "linux/linux-keyboard-shortcuts.md",
     "linux/htop.md",
-    "linux/find.md",
-    "linux/cron.md",
     "tools/wsl.md",
     "tools/vscode.md",
-    "linux/cut.md",
     "tools/git.md",
     "tools/maven.md",
     "tools/nmap.md",
-    "tools/npm.md",
     "Sans titre.canvas",
     "Sans titre 2.canvas",
     "Sans titre 1.canvas",
