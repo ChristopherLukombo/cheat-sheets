@@ -185,6 +185,7 @@ git show --stat
 git show [main:README.md](http://main:README.md/)  
 git clean -n  
 git co -b name commit  
+git gc
   
 git config --global alias.ll "log --oneline"  
   

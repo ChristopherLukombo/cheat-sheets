@@ -19,8 +19,12 @@ ls|while read -r; do echo $REPLY; done
 time
 ls | xargs -n 1 kubectl kustomize
 curl -X POST -H "Content-Type: application/json" \
-
+kill -l
  -d '{"name": "Item 1"}' \
+ egrep “dummy|Lorem|text” dummy.txt
+pdfgrep Linux LINUX.pdf
+watch -n 5 ls
+expr 2 + 3
 
  [http://localhost:8080/items/](http://localhost:8080/items/)
 
