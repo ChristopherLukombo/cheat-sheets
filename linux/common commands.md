@@ -25,9 +25,13 @@ kill -l
 pdfgrep Linux LINUX.pdf
 watch -n 5 ls
 expr 2 + 3
-
+nl
+Tcpdump -A
+ps -ef
  [http://localhost:8080/items/](http://localhost:8080/items/)
-
+rpm -aq  
+sudo dnf remove packet
+bash -x your_script.sh
 nvm alias default 20.10.0
 
 nvm use
@@ -40,8 +44,20 @@ lsof -i :8080
 sudo dpkg -i $FILE_PATH
 sudo apt-get install -f
 
+sed 's/linux/ubuntu/ig' sed.txt
+
+watch 
+
+Psql -U postgres
+ls|while read -r; do echo $REPLY; done
 ```
 for pid in $(ps -ef | grep "some search" | awk '{print $2}'); do kill -9 $pid; done
 ```
 
+watch tail -n 10 deployment.log
 https://linuxhint.com/how-to-add-a-package-repository-to-debian/
+
+crontab -e  
+* * * * * date >> /home/ec2-user/date.log
+
+sudo -i -u postgres

@@ -23,9 +23,45 @@
             "id": "f5d63567c8e4a093",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/sed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "583025bcba1add67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/common commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0057a55e7d3ae816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/ps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb83901d4685094e",
+            "type": "leaf",
+            "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.5.11"
+                "currentVersion": "1.6.7"
               }
             }
           },
@@ -35,14 +71,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/cURL.md",
+                "file": "linux/nslookup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/cURL.md",
+                "file": "linux/ps.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/cURL.md",
+                "file": "linux/ps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/cURL.md"
+                "file": "linux/ps.md"
               }
             }
           }
@@ -177,34 +213,34 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "ff309ea58c268497",
+  "active": "0057a55e7d3ae816",
   "lastOpenFiles": [
-    "linux/raccourcis.md",
-    "linux/cURL.md",
-    "linux/awk.md",
-    "linux/common commands.md",
-    "linux/cat.md",
-    "linux/column.md",
-    "linux/cut.md",
-    "linux/Diff.md",
-    "linux/htop.md",
-    "linux/find.md",
-    "linux/vim.md",
+    "linux/netstat.md",
     "linux/tr.md",
-    "linux/tcpdump.md",
-    "linux/ssh.md",
-    "linux/sftp.md",
-    "linux/nslookup.md",
-    "linux/nmap.md",
-    "linux/linux-keyboard-shortcuts.md",
-    "linux/cron.md",
+    "linux/vim.md",
+    "linux/v.md",
+    "linux/ps.md",
+    "linux/common commands.md",
+    "tools/maven.md",
+    "tools/git.md",
+    "tools/nmap.md",
     "tools/wsl.md",
     "tools/vscode.md",
     "tools/theme terminal.md",
-    "tools/terraform.md",
     "tools/npm.md",
-    "tools/nmap.md",
-    "tools/maven.md",
+    "tools/terraform.md",
+    "linux/sed.md",
+    "linux/sftp.md",
+    "linux/tcpdump.md",
+    "linux/xargs.md",
+    "linux/xclip.md",
+    "linux/ssh.md",
+    "linux/raccourcis.md",
+    "linux/nslookup.md",
+    "linux/nmap.md",
+    "linux/linux-keyboard-shortcuts.md",
+    "linux/htop.md",
+    "linux/find.md",
     "Sans titre.canvas",
     "Sans titre 2.canvas",
     "Sans titre 1.canvas",

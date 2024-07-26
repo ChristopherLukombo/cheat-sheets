@@ -10,3 +10,7 @@ sed -i 's/Steven/Kate/' file
 ```
 sed 's/ancien-texte/nouveau-texte/g' fichier  
 ```
+
+```
+sed -i '/,,/d' fichier
+```

@@ -61,33 +61,33 @@ The following commands can be helpful for working with `git`.
 
 ### Basic commands
 
-| Git Command | Comment |
-| ---- | ---- |
-| `git init` | Initialize a directory as git managed repository |
-| `git clone <url>` | Clone a remote repository to your local client |
-| `git status` | Shows uncommited changes, new files etc. |
-| `git add <file>` | Stage an updated / new file to the next commit |
-| `git rm <file>` | Remove a file and stage the removal for the next commit |
-| `git commit -m "message"` | Commit staged changes under a new commit |
-| `git commit` | Will open an editor to write more descriptive commit messages. See [here](https://cbea.ms/git-commit/) for a guide on good commit messages |
-| `git log` | Shows a list of commits in the current branch |
-| `git log --pretty=oneline` | Shows a list of commits in the current branch in one line |
-| `git log --patch` | Shows a list of commits in the current branch with the changes |
-| `git reset <commit>` | Reset the current branch to the given commit |
-| `git reset --hard <commit>` | Reset the current branch to the given commit and discard all changes |
-| `git reset --soft <commit>` | Reset the current branch to the given commit and keep all changes staged |
-| `git checkout <branch>` | Switch to another branch |
-| `git branch` | Shows a list of existing branches |
-| `git branch <branch>` | Creates a new branch (from the currently checked out branch) |
-| `git merge <branch>` | Merge changes from `branch` to the currently checked out branch |
-| `git push` | Push commited changes to the remote repository |
-| `git pull` | Pull current state from the remote repository to your local repo |
-| `git diff --stat main..` | Display diff with branch main |
-| `git diff --stat branch1..branch2` | Display diff with branch 1 and branch 2 |
-| `git rm --cached <file>` | remove files matching pathspec from the index. |
-| `git rebase` | reapply commits on top of another base tip |
-| `git rebase --onto <newparent> <oldparent>` | switching a parent on a commit. |
-| `git checkout -b "local_mapache_branch" origin/"remote_mapache_branch"` |  Create branch from remote |
+| Git Command                                                             | Comment                                                                                                                                    |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| `git init`                                                              | Initialize a directory as git managed repository                                                                                           |
+| `git clone <url>`                                                       | Clone a remote repository to your local client                                                                                             |
+| `git status`                                                            | Shows uncommited changes, new files etc.                                                                                                   |
+| `git add <file>`                                                        | Stage an updated / new file to the next commit                                                                                             |
+| `git rm <file>`                                                         | Remove a file and stage the removal for the next commit                                                                                    |
+| `git commit -m "message"`                                               | Commit staged changes under a new commit                                                                                                   |
+| `git commit`                                                            | Will open an editor to write more descriptive commit messages. See [here](https://cbea.ms/git-commit/) for a guide on good commit messages |
+| `git log`                                                               | Shows a list of commits in the current branch                                                                                              |
+| `git log --pretty=oneline`                                              | Shows a list of commits in the current branch in one line                                                                                  |
+| `git log --patch`                                                       | Shows a list of commits in the current branch with the changes                                                                             |
+| `git reset <commit>`                                                    | Reset the current branch to the given commit                                                                                               |
+| `git reset --hard <commit>`                                             | Reset the current branch to the given commit and discard all changes                                                                       |
+| `git reset --soft <commit>`                                             | Reset the current branch to the given commit and keep all changes staged                                                                   |
+| `git checkout <branch>`                                                 | Switch to another branch                                                                                                                   |
+| `git branch`                                                            | Shows a list of existing branches                                                                                                          |
+| `git branch <branch>`                                                   | Creates a new branch (from the currently checked out branch)                                                                               |
+| `git merge <branch>`                                                    | Merge changes from `branch` to the currently checked out branch                                                                            |
+| `git push`                                                              | Push commited changes to the remote repository                                                                                             |
+| `git pull`                                                              | Pull current state from the remote repository to your local repo                                                                           |
+| `git diff --stat main..`                                                | Display diff with branch main                                                                                                              |
+| `git diff --stat branch1..branch2`                                      | Display diff with branch 1 and branch 2                                                                                                    |
+| `git rm --cached <file>`                                                | remove files matching pathspec from the index.                                                                                             |
+| `git rebase`                                                            | reapply commits on top of another base tip                                                                                                 |
+| `git rebase --onto <newparent> <oldparent>`                             | switching a parent on a commit.                                                                                                            |
+| `git checkout -b "local_mapache_branch" origin/"remote_mapache_branch"` | Create branch from remote                                                                                                                  |
 
 
 ### Working with git-flow
@@ -186,6 +186,8 @@ git show [main:README.md](http://main:README.md/)
 git clean -n  
 git co -b name commit  
 git gc
+git grep
+git diff HEAD ./path/to/file
   
 git config --global alias.ll "log --oneline"  
   
