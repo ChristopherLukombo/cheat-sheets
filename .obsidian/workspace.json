@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Add to map without problem.md",
+                "file": "linux/common commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Add to map without problem.md",
+                "file": "linux/common commands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/Add to map without problem.md",
+                "file": "linux/common commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/Add to map without problem.md"
+                "file": "linux/common commands.md"
               }
             }
           }
@@ -227,9 +227,11 @@
   },
   "active": "9fb142735ebe3c1b",
   "lastOpenFiles": [
+    "java/resttemplate.md",
+    "java/AssertJ.md",
+    "java/Add to map without problem.md",
     "java/bom.md",
     "java/Assert.md",
-    "java/AssertJ.md",
     "tools/launch.md",
     "java/collector.md",
     "java/Mockito generic.md",
@@ -253,8 +255,6 @@
     "tools/npm.md",
     "windows/Commands.md",
     "windows/windows-terminal.md",
-    "windows/windows-keyboard-shortcuts.md",
-    "linux/common commands.md",
     "Sans titre.canvas",
     "Sans titre 2.canvas",
     "Sans titre 1.canvas",

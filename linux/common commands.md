@@ -28,6 +28,7 @@ expr 2 + 3
 nl
 Tcpdump -A
 ps -ef
+ls -ltr
  [http://localhost:8080/items/](http://localhost:8080/items/)
 rpm -aq  
 sudo dnf remove packet
@@ -64,3 +65,13 @@ sudo -i -u postgres
 
 
 find / -name "postgresql.conf"
+
+
+
+https://levelup.gitconnected.com/generate-code-coverage-report-from-running-e2e-test-with-cypress-io-aaf6d47499e8
+
+command &> /dev/null
+
+&>/dev/null script.sh &
+
+command &>/dev/null &

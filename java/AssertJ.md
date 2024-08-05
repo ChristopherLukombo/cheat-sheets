@@ -39,3 +39,38 @@ void givenTestMethodWithTempDirectory_whenWriteToFile_thenContentIsCorrect(@Temp
       () -> assertLinesMatch(lines, Files.readAllLines(numbers)));
 }
 ```
+
+
+```java
+
+Assertions.assertThat(user)  
+.as("User object should not be null")  
+.isNotNull()  
+.extracting(User::getId, User::getUsername, User::getEmail, User::getStatus)  
+.as("Check user properties")  
+.containsExactly(123, "john_doe", "[john.doe@example.com](mailto:john.doe@example.com)", "active")  
+.allSatisfy(value -> Assertions.assertThat(value).isNotNull())  
+.satisfies(id -> {  
+Assertions.assertThat((Integer) id)  
+.as("User ID should be greater than 0")  
+.isGreaterThan(0);  
+});
+```
+
+
+```java
+
+assertThat(Dictionary.getLanguage("English").getAlphabet().toString()).satisfies(alphabet -> {  
+assertThat(alphabet.length()).isEqualTo(26);  
+assertThat(alphabet.startsWith("a")).isTrue();  
+assertThat(alphabet.endsWith("z")).isTrue();  
+assertThat(alphabet.indexOf("ø")).isEqualTo(-1);  
+}  
+);
+```
+
+
+```java
+
+Assertions.assertThat(emp1).usingRecursiveComparison().isEqualTo(emp2);
+```
