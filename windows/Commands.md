@@ -14,3 +14,7 @@ cls
 shutdown /s /t 5  
 rmdir /s /q  
 ping -c 3 gitlab.ca.cib
+
+
+dir /s | more
+dir | clip

@@ -61,3 +61,6 @@ crontab -e
 * * * * * date >> /home/ec2-user/date.log
 
 sudo -i -u postgres
+
+
+find / -name "postgresql.conf"
