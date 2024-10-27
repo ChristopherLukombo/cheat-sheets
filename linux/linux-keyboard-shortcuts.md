@@ -14,7 +14,8 @@ CTRL + z : Suspend le processus avec un signal SIGSTP et le passe en arrière p
 !123 : répète la commande 123 provenant de l'historique (commande history), valider avec ENTER
 !! : répète la précédente commande, valider avec ENTER
 !blabla : répète la commande commençant par "blabla", valider avec ENTER
-
+Ctrl p précédent  
+Ctrl r et ctrl o execute
 
 
 esc + T : Inverse l'ordre des 2 derniers arguments (idéal si vous mélangez systemctl et init.d)

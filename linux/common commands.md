@@ -66,7 +66,7 @@ sudo -i -u postgres
 
 find / -name "postgresql.conf"
 
-
+find . -type f -size +10M
 
 https://levelup.gitconnected.com/generate-code-coverage-report-from-running-e2e-test-with-cypress-io-aaf6d47499e8
 
@@ -75,3 +75,6 @@ command &> /dev/null
 &>/dev/null script.sh &
 
 command &>/dev/null &
+
+Ctrl p précédent  
+Ctrl r et ctrl o execute

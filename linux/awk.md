@@ -331,3 +331,7 @@ awk -F ',' '{print $2}' filename.txt
 
 
 awk '{print substr($1,0,6)}' : for substring
+
+awk 'BEGIN { print "Start" }{ print $1 } END { print "End" }' file.txt
+
+awk '{sum += $2} END {print sum}' file
