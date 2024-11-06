@@ -83,12 +83,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "angular/life-cycle.md",
+                "file": "linux/cURL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "life-cycle"
+              "title": "cURL"
+            }
+          },
+          {
+            "id": "092ba393b090cce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/unzip.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "unzip"
             }
           },
           {
@@ -118,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -269,11 +283,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "5ef7f864a5410e72",
+  "active": "092ba393b090cce3",
   "lastOpenFiles": [
+    "linux/unzip.md",
+    "linux/awk.md",
+    "linux/cat.md",
+    "linux/common commands.md",
+    "linux/cURL.md",
+    "linux/cron.md",
+    "angular/life-cycle.md",
     "angular/Jest.md",
     "angular/Angular.md",
-    "angular/life-cycle.md",
     "angularJS/Type.md",
     "angularJS/AngularJS.md",
     "Chrome/Chrome.md",
@@ -291,12 +311,6 @@
     "java/resttemplate.md",
     "java/properties.md",
     "java/predicat.md",
-    "java/open-session-in-view.md",
-    "java/Okta.md",
-    "java/Mockito generic.md",
-    "java/lombok.md",
-    "java/Local.md",
-    "java/Jshell.md",
     "typescript",
     "Maven",
     "Sans titre.canvas",

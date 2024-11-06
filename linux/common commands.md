@@ -78,3 +78,5 @@ command &>/dev/null &
 
 Ctrl p précédent  
 Ctrl r et ctrl o execute
+
+**Ctrl + Shift + C**

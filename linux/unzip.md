@@ -1,0 +1,1 @@
+unzip [filename.zip](http://filename.zip/) -d /path/to/directory

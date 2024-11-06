@@ -335,3 +335,5 @@ awk '{print substr($1,0,6)}' : for substring
 awk 'BEGIN { print "Start" }{ print $1 } END { print "End" }' file.txt
 
 awk '{sum += $2} END {print sum}' file
+
+awk '{ sub("old", "new", $1); print $1 }' file.txt
